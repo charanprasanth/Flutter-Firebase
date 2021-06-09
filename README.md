@@ -1,6 +1,11 @@
-# flutter_firebase_crud
+# Flutter firebase
 
-A new Flutter project.
+Flutter example project to illustrate the use of firebase operations
+
+
+## Sample Screenshot
+
+  <img src="https://github.com/charanprasanth/Flutter-Firebase/blob/master/sample/picture.jpg" height="300"></img>
 
 ## Getting Started
 
