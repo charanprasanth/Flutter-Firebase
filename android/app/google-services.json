@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6996324006",
+    "firebase_url": "https://authentication-2bdb7.firebaseio.com",
+    "project_id": "authentication-2bdb7",
+    "storage_bucket": "authentication-2bdb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6996324006:android:06ef9f572a99c4f4d64e67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6996324006-isdk4kciq094dnnjc9sv74opv5m4qprg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlV2_pBOlstBEpQQAXrgcRb9DpaIJyu54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6996324006-isdk4kciq094dnnjc9sv74opv5m4qprg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
